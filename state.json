@@ -1,1 +1,6 @@
-{}
+{
+  "bias_1h": "ranging",
+  "bias_15m": "ranging",
+  "aligned": false,
+  "checked_at": "2026-09-20T12:16:53.969505+00:00"
+}
