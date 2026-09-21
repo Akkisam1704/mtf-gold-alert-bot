@@ -1,6 +1,6 @@
 {
-  "bias_1h": "ranging",
+  "bias_1h": "bearish",
   "bias_15m": "bearish",
-  "aligned": false,
-  "checked_at": "2026-09-21T11:45:01.297768+00:00"
+  "aligned": true,
+  "checked_at": "2026-09-21T17:12:32.988232+00:00"
 }
