@@ -1,6 +1,6 @@
 {
-  "bias_1h": "ranging",
-  "bias_15m": "ranging",
+  "bias_1h": "bearish",
+  "bias_15m": "bullish",
   "aligned": false,
-  "checked_at": "2026-10-22T04:52:33.936237+00:00"
+  "checked_at": "2026-10-22T09:47:35.553037+00:00"
 }
